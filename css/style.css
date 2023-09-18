@@ -97,6 +97,12 @@ p {
 	color: var(--black);
 }
 
+.p-4
+{
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
 
 .display-5 {
 	font-size:calc(1.425rem + 2.1vw);
